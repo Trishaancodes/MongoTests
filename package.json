@@ -1,0 +1,28 @@
+{
+  "name": "mongotests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trishaancodes/MongoTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Trishaancodes/MongoTests/issues"
+  },
+  "homepage": "https://github.com/Trishaancodes/MongoTests#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongo-connect": "^0.0.6",
+    "mongodb": "^6.16.0"
+  }
+}
